@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="treino:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/treino_jar</output-path>
+    <root id="archive" name="treino.jar">
+      <element id="module-output" name="treino" />
+    </root>
+  </artifact>
+</component>
